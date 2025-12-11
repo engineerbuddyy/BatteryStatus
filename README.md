@@ -51,6 +51,6 @@ Composable UI Architecture
 ## 📸 App Screenshots
 
 <p float="left">
-  <img src="discharging.jpeg" width="300" />
-  <img src="charging.jpeg" width="300" />
+  <img src="discharging.jpeg" width="200" />
+  <img src="charging.jpeg" width="200" />
 </p>
