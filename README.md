@@ -7,6 +7,8 @@ Battery percentage
 
 Charging / Discharging / Full status
 
+
+
 ✔️ Beautiful UI with Jetpack Compose
 
 Dynamic background colors based on battery level
@@ -17,6 +19,8 @@ Battery icons for charging, discharging, and full
 
 Clean card layout with rounded corners and shadows
 
+
+
 ✔️ Dynamic Color Logic
 
 Battery level changes the UI theme:
@@ -26,6 +30,8 @@ Battery Level	Color	Meaning
 50–79%	Light Green	Good
 20–49%	Amber	Moderate
 0–19%	Red	Low battery
+
+
 🧩 Tech Stack
 
 Kotlin
@@ -40,21 +46,11 @@ BatteryManager
 
 Composable UI Architecture
 
-🖼️ Screens Included
 
-Battery icon (charging / discharging / full)
-
-Large battery percentage display
-
-Battery status tag (charging / full / etc.)
-
-Progress bar
-
-Health message
 
 ## 📸 App Screenshots
 
 <p float="left">
-  <img src="discharging.png" width="300" />
-  <img src="charging.png" width="300" />
+  <img src="discharging.jpeg" width="300" />
+  <img src="charging.jpeg" width="300" />
 </p>
